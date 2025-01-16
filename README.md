@@ -24,8 +24,10 @@
 <br />
  📊 Stats
 
-![Samii's GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=surafelmohammed&show_icons=true&locale=en&layout=compact&theme=gruvbox)
-![Samii's GitHub stats](https://github-readme-stats.vercel.app/api?username=surafelmohammed&show_icons=true&theme=gruvbox)<br /><br /><br />
-![Samii's GitHub Streak](https://streak-stats.demolab.com?user=surafelmohammed&theme=gruvbox&border_radius=4.5)<br /><br /><br />
+![Sura's GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=surafelmohammed&show_icons=true&locale=en&layout=compact&theme=gruvbox)
+![Sura's GitHub stats](https://github-readme-stats.vercel.app/api?username=surafelmohammed&show_icons=true&theme=gruvbox)<br /><br /><br />
+https://github-readme-streak-stats.herokuapp.com/?user=surafelmohammed&theme=gruvbox
+![Sura's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surafelmohammed&theme=gruvbox)<br /><br /><br />
+![Sura's GitHub Streak](https://streak-stats.demolab.com?user=surafelmohammed&theme=gruvbox&border_radius=4.5&theme=gruvbox)<br /><br /><br />
 #
 
