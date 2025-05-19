@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Surafel M Adem</h1>
 <h3 align="center">A passionate Full-Stack developer from Ethiopia</h3>
 
-- 🔭 I’m currently working on [Selamnew Workspace](https://selamnew.com/),[SCM](https://github.com/IE-Network-Solutions/SCM-Front)
+- 🔭 I’m currently working on [Selamnew Workspace](https://selamnew.com/),[Project Management](https://pm.ienetworks.co/))
 
 - 🌱 I’m currently learning **Software Architecture, Nest Js**
 
