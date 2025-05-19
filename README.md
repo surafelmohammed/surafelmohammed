@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Surafel M Adem</h1>
 <h3 align="center">A passionate Full-Stack developer from Ethiopia</h3>
 
-- 🔭 I’m currently working on [Selamnew Workspace](https://selamnew.com/),[Project Management](https://pm.ienetworks.co/))
+- 🔭 I’m currently working on [Selamnew Workspace](https://selamnew.com/),[Project Management](https://pm.ienetworks.co/), [talent-academy](https://talent-academy.vercel.app/)
 
 - 🌱 I’m currently learning **Software Architecture, Nest Js**
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Redux, TypeScript, React query, Zustand , Next js, Tailwindcss**
 
-- 📫 How to reach me **surafelmohammed66@gmail.com**
+- 📫 How to reach me **surafelmohammed66@gmail.com**, **+251 925688735**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
