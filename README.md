@@ -43,7 +43,7 @@ PostgreSQL · MySQL · Prisma · Docker · CI/CD · Git · GitHub · Figma · Ji
 ## 🌐 Connect With Me
 
 📫 **Email:** [surafelmohammed66@gmail.com](mailto:surafelmohammed66@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/surafelmohammed](https://linkedin.com/in/surafelmohammed)  
+🔗 **LinkedIn:** [linkedin.com/in/surafel-mohammedadem/](https://linkedin.com/in/surafel-mohammedadem/)  
 💻 **GitHub:** [github.com/surafelmohammed](https://github.com/surafelmohammed)
 
 
